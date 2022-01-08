@@ -1,0 +1,41 @@
+body{
+    background-color: hsl(217, 54%, 11%);
+}
+.card{
+    background-color: hsl(216, 50%, 16%);
+    margin: auto;
+    top: 100px;
+    height: 70%;
+    width: 30%;
+    padding: 30px;
+}
+.attributions{
+    margin: auto auto 1rem auto;
+    position: relative;
+    bottom: 10px;
+}
+.blue{
+    font-family: 'Outfit',sans-serif;
+    color: hsl(215, 32%, 27%);
+}
+.white{
+    font-family: 'Outfit',sans-serif;
+    color: hsl(0, 0%, 100%);
+}
+.cyan{
+    font-family: 'Outfit',sans-serif;
+    color: cyan;
+}
+.nft{
+    display:block;
+    width:350px;
+    margin: 0 auto;
+}
+.time{
+    position: relative;
+    left:150px;
+}
+.rule{
+    border-style: solid;
+    border-width: 0.05rem;
+}
